@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "createDate": 1646435556534,
+    "products": [
+      {
+        "id": 2,
+        "date": 1646433832349,
+        "description": "buenasbuenas",
+        "code": "0088",
+        "thumbnail": "static/img/thumbnail-1646433832346mensaje-codigo-portabilidadPersoal.jpeg",
+        "price": "15.18$",
+        "stock": "5"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "createDate": 1647306841785,
+    "products": []
+  },
+  {
+    "id": 5,
+    "createDate": 1647306886485,
+    "products": []
+  },
+  {
+    "id": 6,
+    "createDate": 1647310902984,
+    "products": []
+  },
+  {
+    "id": 7,
+    "createDate": 1647312050435,
+    "products": []
+  }
+]

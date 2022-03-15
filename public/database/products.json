@@ -1,0 +1,85 @@
+[
+  {
+    "id": 1,
+    "date": 1646433825737,
+    "description": "buenasbuenas",
+    "code": "003",
+    "thumbnail": "static/img/thumbnail-1646433825733mensaje-codigo-portabilidadPersoal.jpeg",
+    "price": "15.18$",
+    "stock": "5"
+  },
+  {
+    "id": 2,
+    "date": 1646433832349,
+    "description": "buenasbuenas",
+    "code": "0088",
+    "thumbnail": "static/img/thumbnail-1646433832346mensaje-codigo-portabilidadPersoal.jpeg",
+    "price": "15.18$",
+    "stock": "5"
+  },
+  {
+    "id": 3,
+    "date": 1646433836306,
+    "description": "buenasbuenas",
+    "code": "0089",
+    "thumbnail": "static/img/thumbnail-1646433836302mensaje-codigo-portabilidadPersoal.jpeg",
+    "price": "15.18$",
+    "stock": "5"
+  },
+  {
+    "id": 4,
+    "date": 1646433840941,
+    "description": "buenasbuenas",
+    "code": "0090",
+    "thumbnail": "static/img/thumbnail-1646433840938mensaje-codigo-portabilidadPersoal.jpeg",
+    "price": "15.18$",
+    "stock": "5"
+  },
+  {
+    "id": 5,
+    "name": {
+      "name": "lavandina",
+      "date": 1647310050221,
+      "price": "200",
+      "description": "una descripcion",
+      "code": "2548",
+      "stock": "9",
+      "thumbnail": "static\\img\\thumbnail-1647310050211Screenshot 2022-03-14 at 19-15-06 Fondos Mutuos y de inversión BICE Inversiones.png"
+    }
+  },
+  {
+    "id": 6,
+    "name": {
+      "name": "lavandina",
+      "date": 1647310067656,
+      "price": "200",
+      "description": "una descripcion",
+      "code": "2548",
+      "thumbnail": "static\\img\\thumbnail-1647310067645Screenshot 2022-03-14 at 19-15-06 Fondos Mutuos y de inversión BICE Inversiones.png"
+    }
+  },
+  {
+    "id": 7,
+    "name": {
+      "name": "lavandina",
+      "date": 1647310451330,
+      "price": "200",
+      "description": "una descripcion",
+      "code": "2548",
+      "stock": "9",
+      "thumbnail": "static\\img\\thumbnail-1647310451321Screenshot 2022-03-14 at 19-15-06 Fondos Mutuos y de inversión BICE Inversiones.png"
+    }
+  },
+  {
+    "id": 8,
+    "name": {
+      "name": "arroz",
+      "date": 1647311845243,
+      "price": "200",
+      "description": "una descripcion",
+      "code": "2548",
+      "stock": "9",
+      "thumbnail": "static\\img\\thumbnail-1647311845233Screenshot 2022-03-14 at 19-15-06 Fondos Mutuos y de inversión BICE Inversiones.png"
+    }
+  }
+]
